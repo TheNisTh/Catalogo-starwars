@@ -23,6 +23,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Compiles and hot-reloads for development
 ```
 npm run dev
+```
 ### Compiles and start the package
 ```
 npm run start
