@@ -27,7 +27,7 @@ npm run dev
 ### Compiles and start the package
 ```
 npm run start
-
+```
 # Informações sobre o projeto e autoavaliação:
 
 Website com informações e imagens sobre alguns pilotos e espaçonaves de Star Wars.
